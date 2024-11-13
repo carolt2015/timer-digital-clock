@@ -1,2 +1,2 @@
-# timer-digital-clock
-Create a Digital clock / Countdown timer in Python
+# Timer/Digital clock
+Create a Countdown timer / Digital clock in Python
